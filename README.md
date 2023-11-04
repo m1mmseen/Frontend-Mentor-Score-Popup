@@ -6,6 +6,6 @@ Solution of the [Frontend Mentor Coding Challenge](https://www.frontendmentor.io
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ### Solution Design
-view the solution on [Frontend Mentor]() (Account needed) or [my Githugn Page](https://m1mmseen.github.io/frontendmentor-score-popup/)
+view the solution on [Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV/hub?share=true) (Account needed) or [my Githugn Page](https://m1mmseen.github.io/frontendmentor-score-popup/)
 
 
